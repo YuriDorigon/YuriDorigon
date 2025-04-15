@@ -4,12 +4,12 @@ Comecei minha jornada na programação em 01/12/2022 e, desde então, venho me a
 
 ## Tecnologias que eu sei:
 
-- **HTML** 🧑‍💻
-- **CSS** 🎨
-- **JavaScript** ⚡
-- **React** ⚛️
-- **MySQL** 🗄️
-- **Redes de Computadores** 🌐
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **React** 
+- **MySQL** 
+- **Redes de Computadores** 
 
 ## O que estou aprendendo:
 
@@ -20,5 +20,5 @@ Comecei minha jornada na programação em 01/12/2022 e, desde então, venho me a
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na UniCesumar.
 - 💼 Trabalho como **Recepcionista** na área da saúde, onde desenvolvo habilidades de organização e empatia — essenciais para um bom trabalho em equipe em TI.
-- 🚀 Em busca da minha **primeira oportunidade como desenvolvedor Front-end**.
+- 🚀 Em busca da minha **primeira oportunidade como desenvolvedor**.
 - 🎯 Apaixonado por aprender e pronto para crescer, colaborar e enfrentar novos desafios em projetos de tecnologia.
