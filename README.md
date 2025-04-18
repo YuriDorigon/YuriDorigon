@@ -2,7 +2,7 @@
 
 Comecei minha jornada na programação em 01/12/2022 e, desde então, venho me aprofundando em diversas tecnologias para criar soluções e melhorar a experiência do usuário no desenvolvimento web.
 
-## Tecnologias que eu sei:
+## Tecnologias:
 
 - **HTML**
 - **CSS**
