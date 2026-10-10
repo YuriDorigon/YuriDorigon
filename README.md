@@ -6,7 +6,7 @@ Construo e mantenho sistemas que rodam **em produção todos os dias**. Comecei 
 
 🌐 **Portfólio:** [yuri-dorigon.vercel.app](https://yuri-dorigon.vercel.app)  
 💼 **LinkedIn:** [in/yuridorigon](https://www.linkedin.com/in/yuridorigon)  
-📫 **Contato:** yuridorigon12@gmail.com
+📫 **Contato:** yuridorigon13@gmail.com
 
 ---
 
